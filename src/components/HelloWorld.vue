@@ -1,7 +1,6 @@
-<template>
-  <div class="hello">
-    <h1>Hello</h1>
-  </div>
+<template lang="pug">
+  div
+    h1 Hello anne!
 </template>
 
 <script>
